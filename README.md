@@ -1,4 +1,4 @@
-# Hackintosh-Intel-i5-10400-Gigabyte-Z490M-Gaming-X
+# Hackintosh-Gigabyte-Z490M-Gaming-X
 # Hardware:
 
 CPU: [Intel Core 10 Gen i5-10400]
